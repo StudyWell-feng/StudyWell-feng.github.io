@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://studywell-feng.github.io/</loc>
     <lastmod>2025-09-15T22:23:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://studywell-feng.github.io/post/</loc>
     <lastmod>2025-09-15T22:23:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/title_of_the_post/</loc>
+    <loc>https://studywell-feng.github.io/post/title_of_the_post/</loc>
     <lastmod>2025-09-15T22:23:20+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/readme/</loc>
+    <loc>https://studywell-feng.github.io/readme/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://studywell-feng.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://studywell-feng.github.io/tags/</loc>
   </url>
 </urlset>
